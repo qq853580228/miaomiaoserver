@@ -1,4 +1,4 @@
 # miaomiaoserver
-miaomiaoserver
-npm i
-nodemon
+#miaomiaoserver
+#npm i
+#nodemon
